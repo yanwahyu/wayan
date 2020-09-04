@@ -5,7 +5,7 @@
   "dependencies": {
     "fs": "0.0.1-security",
     "geo-nearby": "^2.0.1",
-    "papaparse": "^5.0.1",
+    "papaparse": "^5.2.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-geolocated": "^2.5.0",
